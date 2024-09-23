@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0400014c-7dd7-4734-8ad4-9d10bc4c0986" name="Changes" comment="" />
+    <list default="true" id="c3a0b0a8-5111-4664-8459-7284d4e31514" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vrusalovskaya&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saddenly/project.git",
+    "accountId": "e9582785-26f1-4c45-aa48-13dc22463137"
+  }
+}]]></component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -27,10 +39,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="2lqQF0za00Tpns4vqOIHIETtn3x" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mQpXTxL8sgPqWsa9bw6ONrtRp8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="Remove" />
@@ -42,52 +54,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.servlettes [clean,package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Smart Tomcat.mytomcat.executor": "Run",
-    "git-widget-placeholder": "master",
+    "Smart Tomcat.tomcat.executor": "Run",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "C:/Users/buiko/OneDrive/Desktop/intensiveProjects/journal"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\disk_d\temp\servlettes\src\main\java\org\example" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="mvn clean package" />
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="mytomcat" type="com.poratu.idea.plugins.tomcat">
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\buiko\.SmartTomcat\servlettes\servlettes" />
-      <option name="contextPath" value="/servlettes" />
-      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="catalinaBase" value="C:\Users\buiko\.SmartTomcat\journal\journal" />
+      <option name="contextPath" value="app123" />
+      <option name="docBase" value="C:\Users\buiko\OneDrive\Desktop\intensiveProjects\journal" />
       <option name="envOptions">
         <map />
       </option>
       <option name="extraClassPath" value="" />
-      <option name="port" value="8088" />
+      <option name="port" value="8082" />
       <option name="tomcatInfo">
         <TomcatInfo>
           <option name="name" value="Apache Tomcat/10.1.28" />
-          <option name="path" value="$PROJECT_DIR$/../../tomcat/apache-tomcat-10.1.28-windows-x64/apache-tomcat-10.1.28" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../../disk_d/tomcat/apache-tomcat-10.1.28-windows-x64/apache-tomcat-10.1.28" />
           <option name="version" value="10.1.28.0" />
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
-      <module name="servlettes" />
+      <module name="journal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,12 +101,99 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0400014c-7dd7-4734-8ad4-9d10bc4c0986" name="Changes" comment="" />
-      <created>1725905018684</created>
+      <changelist id="c3a0b0a8-5111-4664-8459-7284d4e31514" name="Changes" comment="" />
+      <created>1727018696158</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725905018684</updated>
+      <updated>1727018696158</updated>
     </task>
+    <task id="LOCAL-00001" summary="add app">
+      <option name="closed" value="true" />
+      <created>1727023427712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727023427712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add health servlet">
+      <option name="closed" value="true" />
+      <created>1727023631258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727023631258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1727024507164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024507164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add db script">
+      <option name="closed" value="true" />
+      <created>1727025975647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025975647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix servlets' urls">
+      <option name="closed" value="true" />
+      <created>1727028358696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727028358696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add lesson creation functionality">
+      <option name="closed" value="true" />
+      <created>1727033585441</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727033585441</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add attendance log creation functionality">
+      <option name="closed" value="true" />
+      <created>1727035164662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727035164662</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add credentials for db">
+      <option name="closed" value="true" />
+      <created>1727036009250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727036009250</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add app" />
+    <MESSAGE value="add health servlet" />
+    <MESSAGE value="add Jenkinsfile" />
+    <MESSAGE value="add db script" />
+    <MESSAGE value="fix servlets' urls" />
+    <MESSAGE value="add lesson creation functionality" />
+    <MESSAGE value="add attendance log creation functionality" />
+    <MESSAGE value="add credentials for db" />
+    <option name="LAST_COMMIT_MESSAGE" value="add credentials for db" />
   </component>
 </project>
